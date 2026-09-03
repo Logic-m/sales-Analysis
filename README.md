@@ -4,7 +4,7 @@
 
 An interactive Power BI dashboard analyzing sales, profitability, and regional performance from a 1,000-record retail sales dataset spanning January 2023 – January 2024.
 
- <img src="Screenshot 2026-08-29 142855.png" alt="Project 2 Placeholder" width="100%"/>
+ <img src="Screenshot 2026-09-03 161738.png" alt="Project 2 Placeholder" width="100%"/>
 
 ---
 
